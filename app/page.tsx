@@ -23,7 +23,7 @@ export default function Home() {
         {/* Cart Items */}
         <div className="space-y-6">
           <CartItem
-            image="/images/denim-shirt.png"
+            image="images/products/8e2fc001-8203-4cf6-8341-b3331b4c7602.png"
             title="Denim T-Shirt"
             ref="Ref. 00719456"
             color="Blue"
@@ -31,7 +31,7 @@ export default function Home() {
             price="7500.00 NGN"
           />
           <CartItem
-            image="/images/denim-pants.png"
+            image="images/products/886d3397-a674-48f5-aa81-e75c57cc1a88.png"
             title="Denim Pants"
             ref="Ref. 011015233"
             color="Blue"
@@ -39,7 +39,7 @@ export default function Home() {
             price="9000.00 NGN"
           />
           <CartItem
-            image="/images/smartwatch.png"
+            image="images/products/70c82f0d-7e61-4c3a-8f0d-9c5b2f8c7e4a.png"
             title="Sony Smartwat..."
             ref="Ref. 00482981"
             color="Black"
@@ -47,7 +47,7 @@ export default function Home() {
             price="24500.00 NGN"
           />
           <CartItem
-            image="/images/shoes.png"
+            image="images/products/42137b8b-20ec-441e-a304-b9725f71e393.png"
             title="Cognac Oxford"
             ref="Ref. 035772962"
             color="Brown"
